@@ -131,3 +131,12 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.config
+*.db
+*.db-shm
+*.db-wal
+*.v2
+*.wsuo
+*.json
+*.vsidx
+*.bin
